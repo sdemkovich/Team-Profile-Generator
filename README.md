@@ -16,6 +16,11 @@ The user is first prompted to answer questions about their team manager. Then th
 * [Installation](#Installation)
 * [Finished Product](#finished-product)
 
+### Answer these Questions:
+![Questions Image](./assets/images/questions.png)
+
+### Generate a Team Profile like this:
+![Example Profile Image](./assets/images/profile.png)
 
 ## Usage
 * Navigate to Team-Profile-Generator folder and install dependencies.
@@ -24,12 +29,6 @@ The user is first prompted to answer questions about their team manager. Then th
 * Add manager, and as many engineers and interns as the user wants.
 * Select the "I'm done" option when finish adding team members.
 * Open your generated HTML file in the browser to view teams profile.
-
-### Answer these Questions:
-![Questions Image](./assets/images/questions.png)
-
-### Generate a Team Profile like this:
-![Example Profile Image](./assets/images/profile.png)
 
 ## Technologies
 * HTML
