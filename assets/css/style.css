@@ -20,14 +20,12 @@ h1 {
     font-size: 62px !important;
 }
 
-
 h5 {
     font-weight: lighter;
     font-size: 16px;
     text-transform: uppercase;
     color: rgb(114, 112, 112);
 }
-
 
 .jumbotron {
     background: darkcyan;
@@ -44,8 +42,6 @@ a {
     margin-bottom: 30px;
     border-color: lightgray;
     min-height: 350px;
-    /* padding: 0;
-    margin: 1%; */
 }
 
 .card-header {
@@ -73,7 +69,6 @@ i {
     color: #ff6c37;
 }
 
-
 .here-btn {
     color: #ff6c37;
     border: 1px solid #ff6c37;
@@ -88,7 +83,6 @@ i {
     color: white;
     border: none;
 }
-
 
 .info-type {
     font-weight: bold;

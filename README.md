@@ -14,7 +14,6 @@ The user is first prompted to answer questions about their team manager. Then th
 * [Technologies](#technologies)
 * [Questions](#questions)
 * [Installation](#Installation)
-* [Tests](#Tests)
 * [Finished Product](#finished-product)
 
 
@@ -30,7 +29,7 @@ The user is first prompted to answer questions about their team manager. Then th
 ![Questions Image](./assets/images/questions.png)
 
 ### Generate a Team Profile like this:
-![Example Profile Image](./assets/images/profile-example.png)
+![Example Profile Image](./assets/images/profile.png)
 
 ## Technologies
 * HTML
@@ -49,9 +48,6 @@ npm install
 
 ## Finished Product
 View a sample of the generated HTML [here](https://github.com/jpreston-alt/Team-Profile-Generator/blob/master/output/team.html).<br>
-View a video demonstrating the application [here](https://drive.google.com/file/d/1GXXnc2q5sv7_aGnGXkHwB0Wg7uvSFpcF/view).
-
-![](./assets/images/Team-Profile-Generator.gif)
 
 ## Questions
 ​
