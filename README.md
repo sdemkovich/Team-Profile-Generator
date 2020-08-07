@@ -14,6 +14,7 @@ The user is first prompted to answer questions about their team manager. Then th
 * [Technologies](#technologies)
 * [Questions](#questions)
 * [Installation](#Installation)
+* [Finished Product](#finished-product)
 
 ### Answer these Questions:
 ![Questions Image](./assets/images/questions.png)
@@ -43,6 +44,8 @@ To install necessary dependencies, run the following command:
 ``` 
 npm install 
 ``` 
+## Finished Product
+View a video of the full application [here](https://drive.google.com/file/d/15TXIc-kOwtWGyK8Dk2yhlY_td9fp9Gcb/view).<br>
 
 ## Questions
 ​
