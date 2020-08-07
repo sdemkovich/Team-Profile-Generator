@@ -30,7 +30,7 @@ h5 {
 
 
 .jumbotron {
-    background: blue;
+    background: darkcyan;
     color: white;
     border-radius: 0px;
     padding-bottom: 10px;
@@ -44,8 +44,8 @@ a {
     margin-bottom: 30px;
     border-color: lightgray;
     min-height: 350px;
-    padding: 0;
-    margin: 1%;
+    /* padding: 0;
+    margin: 1%; */
 }
 
 .card-header {
@@ -54,20 +54,20 @@ a {
     border-bottom: none;
 }
 
-/* hr.lightest{
+hr.lightest{
     background-color: #ff6c374d;
     margin-bottom: 0px;
-} */
+}
 
-/* hr.medium{
+hr.medium{
     background-color: #ff6c377e;
     margin-bottom: 0px;
-} */
+}
 
-/* hr.darkest{
+hr.darkest{
     background-color: #ff6c37;
     margin-bottom: 0px;
-} */
+}
 
 i {
     color: #ff6c37;
@@ -99,10 +99,3 @@ i {
         height: 125%;
     }
 }
-
-
-
- /* .card {
-    padding: 0;
-    margin: 1%;
-} */

@@ -2,11 +2,12 @@
 
 ## Description
 
-Team Profile Generator is a command-line-interface application, that allows the user to easily generate a team profile webpage, featuring summaries of their team members. All they have to do is answer a series of prompted quesitons on the command line about each members, and an HTML file will automatically be generated. 
+Team Profile Generator is a command-line-interface application, that allows the user to easily 
+generate a team profile webpage, featuring summaries of their team members. 
+All they have to do is answer a series of prompted quesitons on the command line about each members, 
+and an HTML file will automatically be generated. 
 
 The user is first prompted to answer questions about their team manager. Then they may add as many engineers and interns as they like, and answer questions about them. When they have finished adding all the team members that they would like to, they may open up their generated html document in the browser and view their new team profile!
-
-Building this program taught me so much about object oriented programing, and how to structure an application around objects and modules. It taught me about inheritance, and using classes and subclasses to build objects that are similar to one another without having to repeat code. I also learned about jest, test driven development, and writing code first to pass tests. I continued to get more comfortable working in Node and with npm, and I learned about validating user input using inquirer.
 
 ## Table of Contents
 * [Usage](#usage)
@@ -19,11 +20,11 @@ Building this program taught me so much about object oriented programing, and ho
 
 ## Usage
 * Navigate to Team-Profile-Generator folder and install dependencies.
-* Run node app.js to begin.
+* Run node app.js to start.
 * Answer prompted questions about team members.
-* May add one manager, and as many engineers and interns as the user wants.
-* When you are finished adding team members select the "I'm done" option.
-* Open your generated HTML file in the browser to view your teams profile.
+* Add manager, and as many engineers and interns as the user wants.
+* Select the "I'm done" option when finish adding team members.
+* Open your generated HTML file in the browser to view teams profile.
 
 ### Answer these Questions:
 ![Questions Image](./assets/images/questions.png)
@@ -32,27 +33,19 @@ Building this program taught me so much about object oriented programing, and ho
 ![Example Profile Image](./assets/images/profile-example.png)
 
 ## Technologies
-* JavaScript
-* Node.js
-* Jest
-* npm
-* Inquirer.js
 * HTML
 * CSS
+* JavaScript
+* Node.js
+* npm
+* Inquirer.js
 * Bootstrap
-
 
 ## Installation
 To install necessary dependencies, run the following command: 
 ``` 
 npm install 
 ``` 
-
-## Tests
-To run tests, run the following command: 
-``` 
-npm run test 
-```
 
 ## Finished Product
 View a sample of the generated HTML [here](https://github.com/jpreston-alt/Team-Profile-Generator/blob/master/output/team.html).<br>
