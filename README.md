@@ -14,7 +14,6 @@ The user is first prompted to answer questions about their team manager. Then th
 * [Technologies](#technologies)
 * [Questions](#questions)
 * [Installation](#Installation)
-* [Finished Product](#finished-product)
 
 ### Answer these Questions:
 ![Questions Image](./assets/images/questions.png)
@@ -44,9 +43,6 @@ To install necessary dependencies, run the following command:
 ``` 
 npm install 
 ``` 
-
-## Finished Product
-View a sample of the generated HTML [here](https://github.com/jpreston-alt/Team-Profile-Generator/blob/master/output/team.html).<br>
 
 ## Questions
 ​
