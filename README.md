@@ -1,6 +1,5 @@
 # [Team-Profile-Generator](https://) 
 
-
 ## Description
 
 Team Profile Generator is a command-line-interface application, that allows the user to easily generate a team profile webpage, featuring summaries of their team members. All they have to do is answer a series of prompted quesitons on the command line about each members, and an HTML file will automatically be generated. 
@@ -15,7 +14,6 @@ Building this program taught me so much about object oriented programing, and ho
 * [Questions](#questions)
 * [Installation](#Installation)
 * [Tests](#Tests)
-* [Credits](#Credits)
 * [Finished Product](#finished-product)
 
 

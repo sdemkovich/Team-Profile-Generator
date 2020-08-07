@@ -1,9 +1,7 @@
-/* body, html {
+body, html {
     height: 162%;
     margin: 0;
-    background: rgb(41,70,81);
-    background-image: linear-gradient(360deg, rgba(41,70,81,1) 23%, rgba(28,39,43,1) 100%);
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Arvo', serif;
     font-weight: 300;
 }
 
@@ -17,13 +15,9 @@
 }
 
 h1 {
-    font-family: 'Baloo Bhaina 2', sans-serif;
+    font-family: 'Arvo', serif;
     font-weight: 700 !important;
     font-size: 62px !important;
-}
-
-h2 {
-    font-family: 'Baloo Bhaina 2', sans-serif;
 }
 
 
@@ -36,7 +30,7 @@ h5 {
 
 
 .jumbotron {
-    background: none;
+    background: blue;
     color: white;
     border-radius: 0px;
     padding-bottom: 10px;
@@ -48,30 +42,32 @@ a {
 
 .card {
     margin-bottom: 30px;
-    border: none;
+    border-color: lightgray;
     min-height: 350px;
+    padding: 0;
+    margin: 1%;
 }
 
 .card-header {
-    background-color: white;
+    background-color: rgb(206, 221, 230);
     color: rgb(41,70,81);
     border-bottom: none;
 }
 
-hr.lightest{
+/* hr.lightest{
     background-color: #ff6c374d;
     margin-bottom: 0px;
-}
+} */
 
-hr.medium{
+/* hr.medium{
     background-color: #ff6c377e;
     margin-bottom: 0px;
-}
+} */
 
-hr.darkest{
+/* hr.darkest{
     background-color: #ff6c37;
     margin-bottom: 0px;
-}
+} */
 
 i {
     color: #ff6c37;
@@ -103,10 +99,10 @@ i {
         height: 125%;
     }
 }
- */
 
 
- .card {
+
+ /* .card {
     padding: 0;
     margin: 1%;
-}
+} */
