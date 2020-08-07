@@ -1,4 +1,4 @@
-# [Team-Profile-Generator](https://) 
+# [Team-Profile-Generator]
 
 ## Description
 
